@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">queryChain</string>
+    <string name="detect_object">Detect Image</string>
+    <string name="image_query">Image Query</string>
+    <string name="LibraryHomeButton">Library</string>
+    <string name="CameraHomeButton">Camera Query</string>
+    <string name="readme">Read Me</string>
+    <string name="menu_camera"></string>
+    <string name="menu_home"></string>
+    <string name="menu_library"></string>
+    <string name="notfound">404 Logo Not Found</string>
+    <string name="sorry">Please use the camera option again, or find the logo manually through our "Library" option.</string>
+    <string name="readmetext">
+The queryChain project is in NO way affiliated with the certificates listed in our library. The certificates listed in this application are for informational purposes only. Our library and image recognition model will continue to be updated with new certifications. If you\'d like to help contribute, please visit our website. It\'s possible we\'ve missed a bug. If that\'s the case, let us know. This application is entirely open-source, and intended to be modular. If you\'d like to learn more, please visit our website.
+</string>
+    <string name="desc">Certification Logo</string>
+    <string name="desc2">queryChain Logo</string>
+    <string name="sourced">All claims sourced.</string>
+    <string name="privacy">Privacy Agreement: https://querychain.com/privacypolicy.html</string>
+</resources>
